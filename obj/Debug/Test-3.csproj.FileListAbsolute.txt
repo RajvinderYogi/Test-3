@@ -1,0 +1,9 @@
+C:\Users\Raj Yogi\Downloads\programming fundamentals\Test-3\Test-3\bin\Debug\Test-3.exe.config
+C:\Users\Raj Yogi\Downloads\programming fundamentals\Test-3\Test-3\bin\Debug\Test-3.exe
+C:\Users\Raj Yogi\Downloads\programming fundamentals\Test-3\Test-3\bin\Debug\Test-3.pdb
+C:\Users\Raj Yogi\Downloads\programming fundamentals\Test-3\Test-3\obj\Debug\Test-3.csprojResolveAssemblyReference.cache
+C:\Users\Raj Yogi\Downloads\programming fundamentals\Test-3\Test-3\obj\Debug\Test_3.Form1.resources
+C:\Users\Raj Yogi\Downloads\programming fundamentals\Test-3\Test-3\obj\Debug\Test_3.Properties.Resources.resources
+C:\Users\Raj Yogi\Downloads\programming fundamentals\Test-3\Test-3\obj\Debug\Test-3.csproj.GenerateResource.Cache
+C:\Users\Raj Yogi\Downloads\programming fundamentals\Test-3\Test-3\obj\Debug\Test-3.exe
+C:\Users\Raj Yogi\Downloads\programming fundamentals\Test-3\Test-3\obj\Debug\Test-3.pdb
